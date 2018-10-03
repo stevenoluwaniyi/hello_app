@@ -1,4 +1,4 @@
-# Ruby on Rails Tutorial
+# Ruby on Rails Tutorial using cloud9 IDE with AWS
 
 ## "hello, world!"
 
